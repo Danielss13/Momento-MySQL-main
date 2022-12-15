@@ -6,7 +6,7 @@
 
 <h3> 1 - Inclua suas próprias informações no departamento de tecnologia da empresa. </h3>
 <code>INSERT INTO FUNCIONARIOS VALUES
-(207,'Lucas','Costa França','lucascfranca11@gmail.com','080023232','2020-02-04', 9, 10000.00, 100,6); </code>
+(207,'Daniel','Santos silva','ds5826391@gmail.com','080023232','2020-02-04', 9, 10000.00, 100,6); </code>
 
 ##
 ![1](https://cdn.discordapp.com/attachments/1030653726173696010/1038618845977526362/Captura_de_Tela_345.png)
@@ -18,7 +18,7 @@
 (209,'Matias','','matias@gmail.com','38282811','2022-11-05', 3,8300.00, 100, 1),
 (210,'Gabriel','Pacheco','gabrielpacheco@gmail.com','40242343','2022-11-05', 3, 8300.00, 100, 1),
 (211,'Enzo','Serikawa','enzoserikawa@gmail.com','4432432432','2022-11-05', 3, 8300.00, 100,1),
-(212,'Daniel','Santos','danielsantos@gmail.com','33432432','2022-11-05', 3, 8300.00, 100,1)
+(212,'lucas','costa','lucascosta@gmail.com','33432432','2022-11-05', 3, 8300.00, 100,1)
 (213,'Weslei','','weslei@gmail.com','3431221','2022-11-05', 3, 8300.00, 100,1); </code>
 
 
